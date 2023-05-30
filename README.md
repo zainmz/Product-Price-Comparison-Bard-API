@@ -14,7 +14,7 @@ https://github.com/dsdanielpark/Bard-API/tree/main
 
 2) You will have to replace (Line 8) the "XXXXX" with your __Secure-1PSID cookie
 
-![image](https://github.com/zainmz/Product-Price-Comparison-Bard-API/assets/7949768/109a7eeb-8997-4a80-b05d-8ab9bc2aaa3e)
+![image](https://github.com/zainmz/Product-Price-Comparison-Bard-API/assets/7949768/ae9ac895-692f-431d-915b-a70789059092)
 
 3) *Cookie Instruction*
 
@@ -27,7 +27,7 @@ https://github.com/dsdanielpark/Bard-API/tree/main
 
 This script was created for the Sri lankan market by mentioning specifically the country in the prompt, you can change the prompt on Line 29
 
-![image](https://github.com/zainmz/Product-Price-Comparison-Bard-API/assets/7949768/e8b98feb-40ca-4a6b-bcbd-917882add717)
+![image](https://github.com/zainmz/Product-Price-Comparison-Bard-API/assets/7949768/6fca9fca-c27f-4cfd-af1d-bca8c5108dfc)
 
 5) CSV File Format
 I've used a format for the CSV file as below
