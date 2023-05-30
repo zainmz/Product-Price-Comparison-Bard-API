@@ -13,6 +13,7 @@ https://github.com/dsdanielpark/Bard-API/tree/main
 1) Clone or Download repository
 
 2) You will have to replace (Line 8) the "XXXXX" with your __Secure-1PSID cookie
+
 ![image](https://github.com/zainmz/Product-Price-Comparison-Bard-API/assets/7949768/109a7eeb-8997-4a80-b05d-8ab9bc2aaa3e)
 
 3) *Cookie Instruction*
@@ -25,6 +26,7 @@ https://github.com/dsdanielpark/Bard-API/tree/main
 4) *Edit Prompt for Localisation*
 
 This script was created for the Sri lankan market by mentioning specifically the country in the prompt, you can change the prompt on Line 29
+
 ![image](https://github.com/zainmz/Product-Price-Comparison-Bard-API/assets/7949768/e8b98feb-40ca-4a6b-bcbd-917882add717)
 
 5) CSV File Format
