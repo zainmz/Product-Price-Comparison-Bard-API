@@ -2,7 +2,7 @@
 
 This is a test Python application using the open source Google Bard API Library that allows a user to upload a csv file of products and the lowest price of each product is prompted using the Bard API, finally the filtered results are returned which include the price and site link.
 
-![image](https://github.com/zainmz/Product-Price-Comparison-Bard-API/assets/7949768/41329189-add6-48fb-8dab-1ffe2207dc8c)
+![price comparison](https://github.com/zainmz/Product-Price-Comparison-Bard-API/assets/7949768/3824d1a8-9aa9-47e3-a990-89fc3204b01b)
 
 
 The open source Bard-API created by  Antonio Cheong, Daniel Park can be found here:
@@ -32,6 +32,6 @@ This script was created for the Sri lankan market by mentioning specifically the
 5) CSV File Format
 I've used a format for the CSV file as below
 
-![image](https://github.com/zainmz/Product-Price-Comparison-Bard-API/assets/7949768/93ccc527-b124-4bc5-badc-c08b756f52e1)
+![image](https://github.com/zainmz/Product-Price-Comparison-Bard-API/assets/7949768/84615e8e-e695-4c2b-aa82-3724aea03c3e)
 
 
