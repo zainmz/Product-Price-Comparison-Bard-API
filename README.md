@@ -1,6 +1,6 @@
 # Product-Price-Comparison-Bard-API
 
-This is a test Python application using the open source Bard API Library that allows a user to upload a csv file of products. The lowest price of each product is prompted using the Bard API annd the filtered results are returned which include the price and site link.
+This is a test Python application using the open source Google Bard API Library that allows a user to upload a csv file of products and the lowest price of each product is prompted using the Bard API, finally the filtered results are returned which include the price and site link.
 
 ![image](https://github.com/zainmz/Product-Price-Comparison-Bard-API/assets/7949768/41329189-add6-48fb-8dab-1ffe2207dc8c)
 
