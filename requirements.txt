@@ -1,0 +1,4 @@
+pandas~=2.0.2
+requests~=2.31.0
+bardapi~=0.1.11
+streamlit~=1.22.0
